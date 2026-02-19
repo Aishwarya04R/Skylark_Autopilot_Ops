@@ -1,3 +1,4 @@
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 # Skylark Autopilot Ops: The Intelligent Resource Orchestrator
 
 **🌐 [View Live Prototype](https://skylarkautopilotops-xv3tbvardbacuvdov4gzpg.streamlit.app/)**
@@ -28,3 +29,4 @@ Skylark Autopilot Ops is an intelligent orchestration platform designed for dron
 3. Share your Google Sheet with the Service Account email.
 
 4. Run the app: `python -m streamlit run app.py`
+
